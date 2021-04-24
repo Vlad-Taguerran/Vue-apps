@@ -1,0 +1,12 @@
+{
+  "name": "vue-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prisma": "1.28"
+  },
+  "dependencies": {
+    "prisma-client-lib": "1.28.3"
+  }
+}
